@@ -1,3 +1,2 @@
 # Furni
-Furni to wymyślony sklep z meblami. Strona posiada funkcje takie jak dodawanie produktów do koszyka, filtrowanie produktów według ceny, kategorii i innych. A to wszystko zrobione w
-HTML, CSS, JavaScript, PHP i MySQL. Projekt autorski w Figmie.
+Furni is an imaginary furniture store website. It has functionalities like adding products to the cart, filtering products by price, category and others. All this built in HTML, CSS, Javascript, PHP and MySQL. Project made by me in Figma.
